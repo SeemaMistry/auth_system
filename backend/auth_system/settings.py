@@ -125,4 +125,5 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
+# set user model to custom user model created in accounts.models.py
 AUTH_USER_MODEL = 'accounts.UserAccount'

@@ -1,6 +1,6 @@
 # auth_system
 
-Django and React JWT Authentication System made using Djoser
+Django and React JWT Authentication System made using Djoser, simple JWT, and Django admin
 
 # Instalation:
 

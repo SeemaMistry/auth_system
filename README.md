@@ -2,6 +2,12 @@
 
 Django and React JWT Authentication System made using Djoser, simple JWT, and Django admin
 
+# Features
+
+- Login
+- Registration
+- Email Verification
+
 # Instalation:
 
 Clone the project into your local repository.

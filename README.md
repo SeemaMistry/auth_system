@@ -8,7 +8,6 @@ Django and React JWT Authentication System made using Djoser, simple JWT, and Dj
 - Registration
 - Email Verification
 - Reset Password
-- hbbhj
 
 # Instalation:
 

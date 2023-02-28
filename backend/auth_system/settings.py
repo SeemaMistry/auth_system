@@ -83,6 +83,15 @@ DATABASES = {
     }
 }
 
+# EMAIL
+# create an account with the app password setup
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.Emailbackend'
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_PORT = 587
+# EMAIL_HOST_USER = EMAILHERE
+# EMAIL_HOST_PASSWORD = PASSWORD HERE
+EMAIL_USE_TLS = True
+
 
 # Password validation
 # https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators

@@ -86,11 +86,11 @@ DATABASES = {
 
 # EMAIL
 # create an account with the app password setup
-EMAIL_BACKEND = 'django.core.mail.backends.smtp.Emailbackend'
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-# EMAIL_HOST_USER = EMAILHERE
-# EMAIL_HOST_PASSWORD = PASSWORD HERE
+EMAIL_HOST_USER = 'janedow446@gmail.com'
+EMAIL_HOST_PASSWORD = 'yvskrblvbksgenrt'
 EMAIL_USE_TLS = True
 
 
